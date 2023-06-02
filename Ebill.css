@@ -1,0 +1,60 @@
+* {
+  background-color: white;
+  width: 1000;
+  border-collapse: collapse;
+  margin: 30px;
+}
+.billitem table tr th {
+  border-collapse: collapse;
+}
+table {
+  border-collapse: collapse;
+
+  border: 1px solid rgb(18, 18, 194);
+  width: 1000px;
+}
+th {
+  border: 1px solid rgb(18, 18, 194);
+  text-align: center;
+  color: blueviolet;
+}
+td {
+  border: 1px solid rgb(18, 18, 194);
+}
+tr {
+  text-align: center;
+}
+#side1 {
+  border: 1px solid rgb(18, 18, 194);
+
+  width: 1000px;
+  text-align: center;
+}
+#side2 tr th {
+  text-align: left;
+}
+
+#side2 {
+  border: 1px solid rgb(18, 18, 194);
+
+  width: 1000px;
+  text-align: center;
+}
+.sidespace tr th {
+  color: black;
+  text-align: left;
+}
+
+#side3 {
+  border: 1px solid rgb(18, 18, 194);
+  text-align: center;
+  width: 1000px;
+}
+
+/*
+.leftsid1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-flow: row;
+}*/
